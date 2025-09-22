@@ -1,0 +1,1230 @@
+{
+    "Question ID": "af142f8d",
+    "data": [
+        {
+            "text": "Okay, so I need to figure out which of the choices A to D is correct based on the information given about Account A and Account B.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Let me start by summarizing the data from the table.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Account A has an initial investment of $500 with a 6% annual interest rate, compounded once per year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Account B has an initial investment of $1,000 and increases by $25 each year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The question is asking which statement about the earnings of these accounts over time is true.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "First, let me make sure I understand the problem correctly.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "The key here is to compare the amount of money each account earns per year, not the total balance.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, I need to see how the interest (earnings) for each account changes over time and compare them.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "For Account A, since it's compounded annually at 6%, the interest earned each year will increase as the balance grows.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The formula for compound interest is A = P(1 + r)^t, where A is the amount, P is the principal, r is the annual interest rate, and t is time in years.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "However, the interest earned each year is the difference between the balance at the end of the year and the balance at the beginning of the year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "For the first year, the interest would be 6% of $500, which is $30.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "In the second year, the principal would be $500 + $30 = $530, so the interest would be 6% of $530, which is $31.80.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Each subsequent year, the interest earned increases because it's 6% of an increasingly larger principal.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "For Account B, it's simpler because it's a straight $25 increase each year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Regardless of the balance, every year the account gains exactly $25.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, the earnings per year for Account B are constant at $25.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Now, let's compare the two.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "In the first year, Account A earns $30, and Account B earns $25.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, initially, Account A earns more per year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "However, over time, the interest earned by Account A is growing each year due to compounding, while Account B's earnings stay the same.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Wait, but the options mention that Account A might eventually earn less or more than Account B.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Let me check that again.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, no.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "If Account A's earnings are increasing each year (since it's compound interest), and Account B's earnings are fixed at $25, then Account A's earnings will start higher ($30 vs.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "$25) and continue to grow each year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "That would mean Account A's earnings per year are always increasing and will always be more than $25 after the first year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "But that contradicts the answer choices given.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me re-examine.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, maybe I made a mistake here.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let's clarify:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "The question is about the \"money earned per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "\" For Account A, since it's compounded annually, the interest earned each year is indeed calculated on the new principal, which includes previous interest.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, each year's interest is higher than the previous.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, for example:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Year 1 interest for A: 500 * 0.06 = $30",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Year 2 interest for A: (500 + 30) * 0.06 = 530 * 0.06 = $31.80",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Year 3 interest: (530 + 31.80) * 0.06 ≈ 561.80 * 0.06 ≈ $33.71",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "And so on.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Each year, the interest earned increases by 6% of the previous year's interest.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Account B, on the other hand, earns a flat $25 every year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So in Year 1, Account A earns $30 vs.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "B's $25.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "In Year 2, A earns $31.80 vs.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "B's $25.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Each subsequent year, A's earnings keep increasing, so the difference between A and B's yearly earnings keeps growing.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, Account A always earns more each year than Account B.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "That would suggest choice A is correct: \"Account A always earns more money per year than Account B.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "\"",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "But wait, the options don't include that.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, let me check again:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, the options are:",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "A) Account A always earns more money per year than Account B.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "B) Account A always earns less money per year than Account B.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "C) Account A earns more money per year than Account B at first but eventually earns less money per year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "D) Account A earns less money per year than Account B at first but eventually earns more money per year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Wait, according to my calculation, Account A starts earning more ($30 vs.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "$25) and each subsequent year earns even more, so the earnings per year for A are always higher than B's.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the answer should be A.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But let me verify again.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, perhaps I misread the problem.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me check the table again.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Account A: Amount invested $500, 6% annual interest.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Account B: Amount invested $1,000, balance increases by $25 per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Wait, Account B's balance increases by $25 per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, each year, regardless of the balance, it's a simple $25 increase.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, the interest earned per year is $25, but since the principal is $1,000, is that a flat rate?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, if the balance increases by $25 each year, that's a simple interest calculation where the interest is $25 per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, in effect, the interest rate for Account B would be 25/1000 = 2.5% simple interest per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "But the problem doesn't state it as an interest rate; it just says the balance increases by $25 per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, the earnings per year for B are fixed at $25.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Whereas for Account A, it's 6% compounded annually, so the interest earned each year is 6% of the current balance, which includes previous interest.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, as calculated earlier, the interest for A starts at $30 and increases each year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, Account A's yearly earnings start higher and keep increasing, so they will always be higher than B's $25.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the correct answer is A.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But wait, let's check if that's one of the options.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Yes, option A says \"Account A always earns more money per year than Account B.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "\" If that's the case, then A is correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But let me think again.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Is there any possibility that over time, Account A's earnings could decrease?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "No, because it's compounded annually, so the interest is added each year, leading to a larger principal each time.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the interest earned each year will always be 6% of an increasing principal, so the amount earned per year will increase every year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, since it starts at $30 and goes up, while B is always $25, A's earnings per year will always be higher than B's.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, answer A should be correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But the options given don't include that.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, wait, the user provided the options as:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "A) Account A always earns more money per year than Account B.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "B) Account A always earns less money per year than Account B.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "C) Account A earns more money per year than Account B at first but eventually earns less money per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "D) Account A earns less money per year than Account B at first but eventually earns more money per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Wait, so option A is present, so according to my reasoning, A should be correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But maybe I made a mistake here.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, wait, but Account B's balance is $1,000, and it's increasing by $25 each year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So, the total balance for B after t years is 1000 + 25t.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "For Account A, the balance after t years is 500*(1.06)^t.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "But the question is about the amount earned each year, not the total balance.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, the interest earned in each year by Account A is the difference between the balance at year t and year t-1.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, for Account A, the interest earned in year 1 is 500*0.06 = 30.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "In year 2, it's (500*1.06)*0.06 = 530*0.06 = 31.80.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "In year 3, it's (530*1.06)*0.06 ≈ 561.80*0.06 ≈ 33.71.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "And so on.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Each year, the interest earned is 6% of the previous year's balance, which includes the prior interest.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Therefore, the amount earned each year by Account A is increasing geometrically.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Meanwhile, Account B earns a flat $25 each year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, since 30 > 25, and each subsequent year Account A's earnings increase, while B's stay the same, Account A will always earn more each year than Account B.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the correct answer is A.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But let me check the options again.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "The user listed option A as \"Account A always earns more money per year than Account B.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "\" That matches my conclusion.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So, why is this a problem?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Maybe I'm missing something.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Wait, the initial investment for Account B is $1,000, which is double that of Account A's $500.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "But the earnings for B are fixed at $25, while A's earnings start at $30 and increase.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So, even though B has a larger principal, its earnings are fixed, so A's earnings, starting higher, will remain higher.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, answer A should be correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But perhaps there's a trick here.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me check the problem statement again.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "\"Two investments were made as shown in the table above.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The interest in Account A is compounded once per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Which of the following is true about the investments?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "\"",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The key here is that Account A is compounded once per year, so it's definitely compound interest.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Account B's balance increases by $25 per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So, that's a simple increase, not compounded.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Wait, if Account B's increase is $25 per year, that could be interpreted as simple interest.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let's confirm.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Simple interest is calculated as P * r * t, but here, if it's $25 per year, then the simple interest rate would be 25/1000 = 2.5% per annum.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, Account B is effectively earning 2.5% simple interest annually.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, each year, it earns 2.5% of the original principal, which is $25.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Whereas Account A is earning 6% compound interest.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, in simple terms, Account A's interest grows each year, while Account B's stays the same.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Thus, Account A's yearly earnings start higher and keep increasing, so they will always be higher.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, option A is correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But maybe the problem is considering something else?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "For example, if Account B's $25 per year is added to the balance, but then perhaps the next year's increase is based on the new balance?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "But the problem states \"balance increase\" as $25 per year, which suggests that each year the balance increases by exactly $25, regardless of the current balance.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "That would mean it's a simple interest account with $25 earned each year, not based on the current balance.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, it's not compounding; it's a fixed amount each year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, yes, Account A's earnings will always exceed Account B's after the first year, and even in the first year, A earns more.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, the answer should be A.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, but the choices don't have A as correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, the user hasn't provided a correct answer yet; they're asking me to choose.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So, according to the analysis, A is correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But maybe the test question is trying to trick us?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me think again.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, another possibility: perhaps the question is asking about the total amount earned over the entire period, not per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But the question specifically states: \"Which of the following is true about the investments?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "A) Account A always earns more money per year than Account B.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "\" So, it's about earnings per year, not total.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Wait, but let's do a concrete example over a few years to check.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Year 1:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Account A: $500 * 6% = $30 earned.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Total balance: $530.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Account B: $25 earned.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Total balance: $1025.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Year 2:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Account A: $530 * 6% = $31.80 earned.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Total balance: $561.80.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Account B: Another $25 earned.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Total balance: $1050.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Year 3:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Account A: $561.80 * 6% ≈ $33.71 earned.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Total balance: $595.51.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Account B: $25.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Total balance: $1075.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Year 10:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Account A: The balance after 10 years would be 500*(1.06)^10 ≈ 500*1.790847 ≈ $895.42.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "The interest earned in the 10th year would be 6% of the balance at the end of year 9.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let's approximate.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "The balance at year 9 is 500*(1.06)^9 ≈ 500*1.689478 ≈ $844.74.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, the interest in year 10 is 844.74*0.06 ≈ $50.68.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Account B: Still earning $25 in the 10th year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Total balance: 1000 + 25*10 = $1250.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, even in year 10, Account A is earning about $50.68 in interest for that year, compared to B's $25.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, Account A's per-year earnings keep increasing, while B's stay the same.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, Account A always earns more each year than Account B.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, the correct answer is A.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But the options given include C and D, which suggest a crossover, but according to this, there's no crossover.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Account A starts higher and stays higher.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, answer A is correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "However, maybe there was a miscalculation?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, let me check the initial amounts.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Account A is $500, Account B is $1,000.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The interest for A is 6% compounded annually.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The increase for B is $25 per year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So, in terms of percentage, A's rate is higher, but B has a larger principal.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "However, since A's interest is compounded, its earnings grow each year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me check the earnings each year again.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Year 1:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "A: 500 * 0.06 = 30",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "B: 25",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, A > B.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Year 2:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "A: (500 + 30) * 0.06 = 530 * 0.06 = 31.80",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "B: 25",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "A > B.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Year 3:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "A: 530 + 31.80 = 561.80 * 0.06 ≈ 33.71",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "B: 25",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Still A > B.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Continuing this, each year A's earnings increase by 6% of the previous year's earnings.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, each year's interest is 1.06 times the previous year's balance multiplied by 0.06, which means the earnings themselves are growing by 6% each year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the earnings form a geometric sequence with ratio 1.06.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, they increase exponentially.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Meanwhile, B's earnings are a constant $25 per year, forming an arithmetic sequence.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Since exponential growth (even at 6%) will eventually outpace any linear growth, but in this case, the earnings themselves are growing exponentially, so each subsequent year's earnings for A are higher than the previous.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Since they start higher (30 vs.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "25), and keep increasing, there's no point where B's earnings catch up.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the correct answer is A.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But why would the options include C and D?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Maybe a common misconception is to think that because B has a higher principal, its earnings might eventually surpass A's.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But no, because B's earnings are fixed, while A's are growing.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Alternatively, if B's interest was compounded, but in this case, B's increase is fixed.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Alternatively, maybe there's a mistake in interpreting the problem.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "If the \"balance increase\" for B is $25 each year, does that mean the balance becomes the previous balance plus $25, regardless of interest?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "That is, simple interest of $25 per year, which as calculated earlier is equivalent to 2.5% simple interest on $1,000.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, it's not compounding.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, A's earnings, being compound, will always outpace B's.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the answer must be A.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Wait, but let's consider if the problem had been different.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "For example, if Account B had a higher interest rate but simple interest, then over time Account A's compound interest might overtake.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "But in this case, B's rate is effectively 2.5% simple interest, while A's is 6% compound.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, A's higher rate and compounding make its earnings per year always higher.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Yes, I think the answer is A.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "To determine which statement is true, we compare the annual earnings of Account A and Account B over time:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "- **Account A**: \\$500 invested at 6% annual interest, compounded yearly.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The interest earned each year increases because it is calculated on the updated balance (including prior interest).",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "- Year 1 interest: \\$500 × 6% = \\$30  \n  - Year 2 interest: (\\$500 + \\$30) × 6% = \\$31.80  \n  - Each subsequent year's interest grows by 6% of the previous year's balance.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "- **Account B**: \\$1,000 invested with a flat \\$25 increase per year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "This represents simple interest equivalent to 2.5% annually (since \\$25 is 2.5% of \\$1,000).",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The earnings remain constant at \\$25 every year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "**Analysis**:\n- **Year 1**: Account A earns \\$30 vs.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Account B's \\$25.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "**A > B**.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "- **Year 2**: Account A earns \\$31.80 vs.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "B's \\$25.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "**A > B**.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "- **Subsequent years**: Account A's earnings grow exponentially (compounded at 6%), while B's earnings stay fixed.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "For example, by Year 10, Account A earns ≈\\$50.68/year, while B still earns \\$25.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Since Account A's annual earnings start higher and continue to increase due to compounding, **Account A always earns more money per year than Account B**.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Answer**:  \n\\boxed{A}",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        }
+    ]
+}

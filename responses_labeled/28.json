@@ -1,0 +1,890 @@
+{
+    "Question ID": "b2f6f17d",
+    "data": [
+        {
+            "text": "Okay, so the customer's water bill went up from $75.74 to $79.86.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "I need to figure out the percentage increase.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Hmm, percentage increase.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Right, the formula for percentage increase is ((New Amount - Original Amount)/Original Amount) * 100, right?",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me write that down to make sure.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "So, the original amount is $75.74, and the new amount is $79.86.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "First, I should subtract the original amount from the new amount to find the increase.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "That would be $79.86 - $75.74.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me do that subtraction.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "79.86 minus 75.74.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Let's see, 79 minus 75 is 4, and 0.86 minus 0.74 is 0.12.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So adding those together, 4 + 0.12 equals 4.12.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So the increase is $4.12.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Now, to find the percentage increase, I take that 4.12 and divide it by the original amount, which was 75.74.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "So 4.12 divided by 75.74.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Hmm, let me compute that.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, maybe I can write it as a fraction: 4.12 / 75.74.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me use a calculator for this division, or maybe do it manually.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me see.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Alternatively, maybe approximate.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let's see, 4 divided by 75 is approximately 0.0533, right?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Because 75 times 0.05 is 3.75, and 0.0533 times 75 is roughly 4.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 4 divided by 75 is about 5.33%.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "But wait, the actual numbers are 4.12 divided by 75.74.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So the numerator is a bit more than 4, and the denominator is a bit more than 75.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So maybe the percentage is slightly higher than 5.33%?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me check.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Alternatively, maybe compute 4.12 divided by 75.74 exactly.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let's see.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Let me set up the division: 4.12 ÷ 75.74.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "To make this easier, I can multiply numerator and denominator by 100 to eliminate decimals: 412 ÷ 7574.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Hmm, that's still a bit of a pain.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Let me see if I can estimate this.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Alternatively, let's use decimal division.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So 4.12 divided by 75.74.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let me write that as 4.12 / 75.74 ≈ ?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let me approximate.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "75.74 goes into 4.12 how many times?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Well, 75.74 is much larger than 4.12, so it's less than 1.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So we can write this as 0.0.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "something.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Wait, actually, since we're dealing with percentages, maybe convert to a decimal and then multiply by 100.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Alternatively, cross-multiply.",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me think.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Let me set it up as:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "x = (4.12 / 75.74) * 100",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So x is the percentage increase.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let's compute 4.12 / 75.74 first.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let me do this step by step.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Divide 4.12 by 75.74.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let's first note that 75.74 * 0.05 = 3.787.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 0.05 times 75.74 is 3.787.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then, 4.12 - 3.787 = 0.333.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 0.05 gives 3.787, and we have 0.333 left.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So now, how much more do we need to add to 0.05 to get to 4.12?",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So 0.333 / 75.74.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let's compute that.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "75.74 * 0.004 = 0.30296.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 0.004 would give 0.30296, which is close to 0.333.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So subtract: 0.333 - 0.30296 = 0.03004.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then, 75.74 * 0.0004 = 0.030296.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So that's approximately 0.0004.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So adding up:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "0.05 + 0.004 + 0.0004 = 0.0544.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Therefore, 4.12 / 75.74 ≈ 0.0544.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then, multiplying by 100 gives 5.44%.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So approximately 5.44%, which to the nearest tenth of a percent is 5.4%.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So the answer should be D) 5.4%.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Wait, but the choices are A) 4.1%, B) 5.1%, C) 5.2%, D) 5.4%.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So D is 5.4%, which matches my calculation.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But let me confirm using another method to ensure I didn't make a mistake.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Alternatively, using decimal division:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me compute 4.12 / 75.74.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "First, 75.74 goes into 412 (since 4.12 is 412 divided by 100) how many times?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, 75.74 x 5 is 378.7, which is less than 412.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "75.74 x 5 = 378.7.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract that from 412: 412 - 378.7 = 33.3.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a zero: 333.0.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "75.74 goes into 333.0 four times: 4 x 75.74 = 302.96.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract: 333.0 - 302.96 = 30.04.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a zero: 300.4.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "75.74 goes into 300.4 three times (75.74 x 3 = 227.22).",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Wait, but 75.74 x 4 = 302.96, which is more than 300.4.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So three times: 227.22.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract: 300.4 - 227.22 = 73.18.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Hmm, this is getting messy.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Wait, maybe I messed up the decimal placement.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Alternatively, maybe use a calculator approach.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me think.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "If I have a calculator, I can just compute 4.12 divided by 75.74.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let's approximate:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "4.12 ÷ 75.74 ≈ 4.12 ÷ 75 ≈ 0.0549.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "But since the denominator is 75.74, which is slightly higher than 75, the actual value is slightly lower than 0.0549.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 0.0549 is 5.49%, so slightly lower, maybe 5.44% as before.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 5.4% when rounded to the nearest tenth of a percent.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So D is the answer.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "But wait, let me check if maybe the problem is with the exact calculation.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let's compute 4.12 / 75.74 precisely.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "First, let's write both numbers as fractions over 100: 4.12 = 412/100, 75.74 = 7574/100.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So dividing them: (412/100) / (7574/100) = 412/7574 ≈ 0.05437.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Multiply by 100 gives ≈5.437%, which is approximately 5.4% when rounded to the nearest tenth of a percent.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So that's D.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Alternatively, cross-validate using another method.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let's compute the decimal division step by step.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "So, 4.12 divided by 75.74.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let's rewrite this as 412 divided by 7574, since both numerator and denominator multiplied by 100.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "So, 7574 ) 412.000000.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "7574 goes into 412 zero times.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So we write 0.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "and proceed.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "7574 goes into 4120 (bring down a zero) 0.5 times because 7574*0.5=3787.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "3787 subtracted from 4120 is 333.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down another 0: 3330.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "7574 goes into 3330 0.4 times (7574*0.4=3029.6).",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "3330 - 3029.6 = 300.4.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a 0: 3004.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "7574 goes into 3004 0.3 times (7574*0.3=2272.2).",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "3004 - 2272.2 = 731.8.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a 0: 7318.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "7574 goes into 7318 0.9 times (7574*0.9=6816.6).",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "7318 - 6816.6 = 501.4.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a 0: 5014.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "7574 goes into 5014 0.6 times (7574*0.6=4544.4).",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "5014 - 4544.4 = 469.6.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a 0: 4696.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "7574 goes into 4696 0.6 times (7574*0.6=4544.4).",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "4696 - 4544.4 = 151.6.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a 0: 15160.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "7574 goes into 15160 2 times (7574*2=15148).",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "15160 - 15148 = 12.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a 0: 120.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "This is getting quite lengthy, but so far, after the decimal, we have 0.0 (from the initial 0), then 5, 4, 3, 9, 6, 6, 2.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So putting it all together, the decimal is approximately 0.05439662.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ", which is approximately 5.439662%, so 5.44% when rounded to the nearest hundredth, and 5.4% when rounded to the nearest tenth.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the answer is D) 5.4%.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But let me check the answer choices again.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "The options are 4.1, 5.1, 5.2, 5.4.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So 5.4 is an option, so that must be the correct one.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, the answer is D.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, but let me check once more with exact calculation to make sure I didn't miscalculate the difference.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "The increase is 79.86 - 75.74.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let's subtract:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "79.86\n-75.74\n--------\n4.12",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Yes, that's correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So 4.12 is the absolute increase.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So percentage increase is (4.12 / 75.74) * 100.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "As we calculated, approximately 5.4%.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So D is the correct answer.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Alternatively, maybe some people might calculate the percentage difference differently, but I don't think so.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "The standard formula is (New - Original)/Original * 100.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So that's correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So yes, 5.4% is the right answer.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**\n\\boxed{D}</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The customer's monthly water bill increased from $75.74 to $79.86.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "To find the percentage increase, we use the formula:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "\\[\n\\text{Percentage Increase} = \\left( \\frac{\\text{New Amount} - \\text{Original Amount}}{\\text{Original Amount}} \\right) \\times 100\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "First, calculate the absolute increase:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "\\[\n79.86 - 75.74 = 4.12\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Next, divide the increase by the original amount:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "\\[\n\\frac{4.12}{75.74} \\approx 0.05437\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Convert this to a percentage by multiplying by 100:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "\\[\n0.05437 \\times 100 \\approx 5.437\\%\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Rounding to the nearest tenth of a percent gives:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "\\[\n5.4\\%\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Thus, the answer is \\(\\boxed{D}\\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        }
+    ]
+}

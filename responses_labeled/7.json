@@ -1,0 +1,225 @@
+{
+    "Question ID": "aa43b41f",
+    "data": [
+        {
+            "text": "Okay, so the question is about why a cable news show's online poll results (28% Yes, 70% No) might not represent the US population's sentiments.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The options are A to D.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Let me think through each one.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, the percentages add up to 98%, which leaves 2% unaccounted for.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Option A says the percentages don't add up to 100%, making conclusions invalid.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "But is that really a big issue?",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "I think polls often have rounding errors or maybe some people didn't answer, so the total might not be exactly 100.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So maybe A isn't the best answer.",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "The problem isn't necessarily that the math is wrong, but more about how the data was collected.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Then there's option B: the respondents weren't a random sample.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "That makes sense because the poll was on the show's website.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So only viewers of that specific cable news show would know about it, and even among them, only those who stayed until the end and were motivated to go online and respond.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "This creates a self-selected sample, which is biased.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Cable news audiences often have particular political leanings, depending on the network.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So B seems like a strong candidate.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Option C says there weren't 50-50 responses.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "But why would that matter?",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "The real population isn't necessarily split 50-50.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The issue isn't about balance but whether the sample reflects the population.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So C might be a distractor, assuming a balanced response is needed, which isn't the case.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "If the actual population was, say, 30-70, the poll could be accurate.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So C probably isn't the answer.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Option D suggests the show didn't give enough time to respond.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Maybe, but the host reported the results at the end of the show.",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "If they only allowed a short window, maybe only the most passionate viewers responded quickly.",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But without specific info on time constraints, this is speculative.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "However, even with enough time, the bigger issue is the self-selection bias.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So D might be a possible issue, but B seems more fundamental.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, the key reason is that the sample isn't random.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The poll only includes people who watched the show, visited the website, and chose to respond.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "This is a voluntary response sample, which is prone to bias because people with strong opinions (especially negative ones) are more likely to participate.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Hence, the results don't represent the broader population.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the correct answer should be B.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The correct answer is **B) Those who responded to the poll were not a random sample of the population of the United States.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "**",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "**Explanation:**  \nThe poll was conducted on the show's website, meaning only viewers who stayed until the end, had access to the website, and were motivated to participate could respond.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "This creates a **self-selected sample**, which is inherently biased.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Such samples often overrepresent individuals with strong opinions (e.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "g.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ", opposition to the policy) and underrepresent others.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Additionally, cable news audiences may skew toward specific demographics or political leanings, further reducing the poll's generalizability.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "While the percentages not adding to 100% (A) or time constraints (D) could be minor issues, the lack of a random sample is the primary reason the results are unrepresentative.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Option C is irrelevant, as there’s no requirement for polls to show a 50-50 split.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        }
+    ]
+}

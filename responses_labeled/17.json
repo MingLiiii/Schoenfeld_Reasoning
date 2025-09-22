@@ -1,0 +1,460 @@
+{
+    "Question ID": "b1228811",
+    "data": [
+        {
+            "text": "Okay, let me try to figure this problem out.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So, Marisa needs to hire staff for her project, right?",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "There are junior directors and senior directors.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The problem gives me some conditions, and I need to translate those into a system of inequalities.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The answer choices are A, B, C, D, so I need to pick the correct one.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "First, let me note down all the given conditions.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let's see:",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "1. Marisa needs to hire at least 10 staff members.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So, the total number of junior and senior directors combined has to be 10 or more.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "That means if x is the number of juniors and y is the number of seniors, then x + y should be greater than or equal to 10.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "2. The budget for paying the staff is no more than $9,700 per week.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The junior directors are paid $640 each per week, seniors $880 each.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So, the total weekly payment would be 640x + 880y, and this has to be less than or equal to 9,700.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "3. She must hire at least 3 junior directors.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So, x is greater than or equal to 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "4. And she must hire at least 1 senior director, so y is greater than or equal to 1.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Now, let's go through each of these conditions one by one and see which answer choice matches all of them.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Starting with the first condition: x + y ≥ 10.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "This is the total number of staff members.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, in the answer choices, the system must include an inequality where the sum of x and y is at least 10.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let's look at the options:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "- Option A: x + y ≤ 10.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "That's the opposite; it's saying the total staff can't exceed 10.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "But the problem says \"at least 10,\" so A is out.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "- Option B: x + y ≥ 10.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "That matches our first condition.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Keep B in mind.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "- Option C: x + y ≥ 10.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Also matches.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Hmm, so both B and C have this.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Wait, but let's check the others.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "- Option D: x + y ≤ 10.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Again, same as A, which contradicts the first condition.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So D is out.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Okay, so now between B and C.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Let's check the second condition: budget no more than $9,700.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "So, the total cost 640x + 880y ≤ 9,700.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Looking at the options:",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "- Option B: 640x + 880y ≤ 9,700.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "That's exactly what we need here.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "- Option C: 640x + 880y ≥ 9,700.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "That's the opposite; it's saying the cost must be at least 9,700.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "But the problem says the budget is no more than 9,700, so C is out here.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So now, B is looking better.",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let's check the other conditions.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Third condition: x ≥ 3 (at least 3 juniors).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "In the options:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "- Option B: x ≥ 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Correct.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "- Option C: x ≤ 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Wait, that's the reverse.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So C is saying you can't hire more than 3 juniors, but the problem says at least 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So C is wrong here.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Fourth condition: y ≥ 1 (at least 1 senior).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Checking the options:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "- Option B: y ≥ 1.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Correct.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "- Option C: y ≤ 1.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Again, reverse.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So C is saying you can have at most 1 senior, but the problem requires at least 1.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So C is wrong here as well.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, Option B is the one that meets all the conditions: x + y ≥ 10 for the total staff, 640x + 880y ≤ 9,700 for the budget, x ≥ 3 for juniors, and y ≥ 1 for seniors.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, let me double-check.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me go through each part again.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, total staff: at least 10.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "B says x + y ≥ 10, which is correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The budget is no more than 9,700, so total cost ≤ 9,700.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "B has 640x + 880y ≤ 9,700.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Then, hiring at least 3 juniors, x ≥ 3.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Yes.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "And at least 1 senior, y ≥ 1.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "All correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Looking at the other options again.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Option A had the budget as ≥ 9,700 and total staff ≤10.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So that's the opposite on both counts.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "D is similar to A but with x ≤3 and y ≤1, which is wrong.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "C has the budget as ≥9,700, which is wrong, and the constraints on x and y are ≤3 and ≤1, which again is the opposite of what's needed.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So yeah, B is correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "I think that's it.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So the answer should be B.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "\\boxed{B}</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Marisa needs to hire at least 10 staff members, consisting of junior directors (x) and senior directors (y).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The conditions are as follows:",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "1. The total number of staff members must be at least 10: \n   \\[\n   x + y \\geq 10\n   \\]\n2.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The total weekly budget must not exceed $9,700:\n   \\[\n   640x + 880y \\leq 9,700\n   \\]\n3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "At least 3 junior directors must be hired:\n   \\[\n   x \\geq 3\n   \\]\n4.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "At least 1 senior director must be hired:\n   \\[\n   y \\geq 1\n   \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Analyzing the answer choices, we find that option B satisfies all these conditions:\n- \\(640x + 880y \\leq 9,700\\)\n- \\(x + y \\geq 10\\)\n- \\(x \\geq 3\\)\n- \\(y \\geq 1\\)",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Thus, the correct answer is:\n\\[\n\\boxed{B}\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        }
+    ]
+}

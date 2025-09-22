@@ -1,0 +1,325 @@
+{
+    "Question ID": "6e06a0a7",
+    "data": [
+        {
+            "text": "Okay, so I need to figure out which of the given options is equivalent to the expression 2a² times (a + 3).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Let me start by recalling how to expand expressions like this.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, I remember that when you have a term multiplied by a binomial, you need to use the distributive property.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "That means I have to multiply 2a² by each term inside the parentheses separately and then add the results together.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me write that out step by step.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "The original expression is 2a²(a + 3).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So, I should distribute 2a² to both 'a' and 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Starting with the first term inside the parentheses, which is 'a'.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Multiplying 2a² by 'a'.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Hmm, when you multiply variables with exponents, you add the exponents, right?",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So, a² times a is a^(2+1) which is a³.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then, multiplying by the coefficient 2, so 2 * 1 (since the coefficient of 'a' is 1) is 2.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, that term becomes 2a³.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Now the second term inside the parentheses is 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Multiplying 2a² by 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "That should be straightforward: 2 * 3 is 6, and then you still have the a² term.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, that term becomes 6a².",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Now, combining both results, the expanded form should be 2a³ + 6a².",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me check if that matches any of the options given.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "The options are A) 5a³, B) 8a⁵, C) 2a³ + 3, D) 2a³ + 6a².",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Looking at option D, that's exactly what I got: 2a³ + 6a².",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So, that must be the correct answer.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But just to be sure, let me double-check my steps.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First distribution: 2a² * a.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "2 times 1 is 2, a² times a is a³.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Yep, 2a³.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then, 2a² * 3.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "2*3 is 6, a² remains.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, 6a².",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Adding them together gives 2a³ + 6a².",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Definitely option D.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, let me check the other options to make sure none of them could be equivalent through some mistake.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Option A is 5a³.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "There's no way adding 2a³ and 6a² would result in 5a³ unless there was some other term canceling or combining, but they are not like terms.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So A is out.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Option B is 8a⁵.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "That seems way off because the original expression is a quadratic times a linear term, so the highest degree should be 3, not 5.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So B is wrong.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Option C is 2a³ + 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Wait, that's missing the a² term and has a constant term instead.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The original expression, when expanded, should have an a³ term and an a² term, no constants.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So C is also incorrect.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, the only correct answer is D.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "I think that's solid.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Just to recap, distributing 2a² over (a + 3) gives 2a³ + 6a², which is exactly option D.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Just another way to think about it: if I factor out 2a² from option D, I should get back the original expression.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let's see.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "2a³ + 6a².",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Factor out 2a²: 2a²(a + 3).",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Yep, that's the original expression.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Perfect.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So that confirms it.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Definitely D.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**\n\\boxed{D}</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "To determine which expression is equivalent to \\(2a^2(a + 3)\\), we start by using the distributive property.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "We multiply \\(2a^2\\) by each term inside the parentheses:",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "1. Multiply \\(2a^2\\) by \\(a\\):\n   \\[\n   2a^2 \\cdot a = 2a^{2+1} = 2a^3\n   \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "2. Multiply \\(2a^2\\) by \\(3\\):\n   \\[\n   2a^2 \\cdot 3 = 6a^2\n   \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Combining these results, we get:\n\\[\n2a^3 + 6a^2\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Comparing this with the given choices, we find that option D matches.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "To verify, we can factor out \\(2a^2\\) from option D:\n\\[\n2a^3 + 6a^2 = 2a^2(a + 3)\n\\]\nwhich confirms it is equivalent to the original expression.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Thus, the correct answer is \\(\\boxed{D}\\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        }
+    ]
+}

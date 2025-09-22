@@ -1,0 +1,265 @@
+{
+    "Question ID": "d693f563",
+    "data": [
+        {
+            "text": "Okay, so Cedric had 35 plants last year, and this year the number increased by 60%.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Hmm, I need to figure out how many plants he has now.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Let me think.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "First, I remember that percentage increase means you take a certain percentage of the original amount and add it to the original.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, if he has 60% more plants this year, that should be 60% of 35 added to the original 35, right?",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me write that down.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The original number is 35.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The increase is 60% of 35.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "To calculate 60% of 35, I can convert the percentage to a decimal.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "60% is the same as 0.6.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then, multiply 0.6 by 35.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let me do that: 0.6 * 35.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Hmm, 0.6 times 30 is 18, and 0.6 times 5 is 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 18 + 3 = 21.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, 60% of 35 is 21.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Therefore, the new number of plants is 35 + 21.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Adding those together: 35 + 21 is 56.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Wait, so Cedric has 56 plants this year?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me double-check that.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Another way to calculate percentage increase is to multiply the original number by (1 + the percentage increase as a decimal).",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, that would be 35 * (1 + 0.6) = 35 * 1.6.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me compute that.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "35 times 1 is 35, and 35 times 0.6 is 21.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, adding those gives 35 + 21 = 56.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Yep, same answer.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "That seems right.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Just to make sure I didn't make a mistake in the percentage calculation.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "If 60% of 35 is 21, then adding 21 to 35 gives 56.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Alternatively, 1.6 times 35 is 56.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Either way, same result.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So, Cedric has 56 plants in his garden this year.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "That makes sense because a 60% increase on 35 should be a bit more than half of 35 added.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Half of 35 is 17.5, so 17.5 + 35 is 52.5.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Since 60% is more than half, 56 is reasonable.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "No, wait, 60% is actually 10% more than 50%.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, 50% of 35 is 17.5, then 10% is 3.5, so 60% is 17.5 + 3.5 = 21.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Exactly.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Then 35 + 21 is 56.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Perfect.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "I think that's solid.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "I can't see a mistake here.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So, the answer is 56 plants.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**\nCedric has \\boxed{56} plants in his garden this year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Cedric had 35 plants last year.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "This year, the number of plants increased by 60%.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "To find the number of plants this year, we need to calculate 60% of 35 and add it to the original number.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, convert 60% to a decimal: \\(60\\% = 0.6\\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Next, calculate 60% of 35:\n\\[\n0.6 \\times 35 = 21\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Add this result to the original number of plants:\n\\[\n35 + 21 = 56\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Another way to verify this is by multiplying the original number by \\(1 + 0.6\\):\n\\[\n35 \\times 1.6 = 56\n\\]",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Thus, the number of plants Cedric has in his garden this year is \\(\\boxed{56}\\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        }
+    ]
+}

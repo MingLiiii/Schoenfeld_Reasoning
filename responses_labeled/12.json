@@ -1,0 +1,240 @@
+{
+    "Question ID": "8c515062",
+    "data": [
+        {
+            "text": "Okay, so there's this candle made of 17 ounces of wax.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "It's burning, and every 4 hours, it loses 1 ounce of wax.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The question is, if there are 6 ounces of wax left, how many hours has it been burning?",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The choices are A) 3, B) 6, C) 24, D) 44.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Hmm, let me think.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The candle started with 17 ounces and now has 6 ounces left.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So the amount of wax that has burned is 17 minus 6, right?",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me do that calculation: 17 - 6 equals 11 ounces.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 11 ounces of wax have burned away.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Now, the burning rate is 1 ounce every 4 hours.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So if 1 ounce takes 4 hours, then 11 ounces would take 11 times 4 hours.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me calculate that: 11 multiplied by 4 is.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "44.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 44 hours.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me check the choices.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "D is 44, so that should be the answer.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, but let me double-check to make sure I didn't make a mistake.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Starting with 17 ounces, burning for 44 hours.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Since it burns 1 ounce every 4 hours, in 44 hours, how many ounces would that be?",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "44 divided by 4 is 11.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 11 ounces burned.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "17 minus 11 is 6 ounces remaining.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Yep, that matches the problem statement.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So it's definitely 44 hours.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So the answer is D.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But just to be thorough, let me consider the other options.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "If someone thought that it's 6 ounces burned instead of 11, they might do 6 times 4, which is 24.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "But that's not right because the remaining wax is 6, so the burned wax is 17 - 6 = 11.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So 11 ounces burned.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "11 times 4 is 44.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So D is correct.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "The other options don't make sense.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "3 hours would be less than an ounce burned, 6 hours would be 1.5 ounces, which isn't 11.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "24 is 6 ounces burned, which again is incorrect.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So yeah, D is the right answer.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**\n\\boxed{D}</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The candle initially contains 17 ounces of wax and now has 6 ounces remaining.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The amount of wax burned is calculated as follows:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "\\[\n17 \\text{ ounces} - 6 \\text{ ounces} = 11 \\text{ ounces}\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "The candle burns 1 ounce of wax every 4 hours.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Therefore, the time required to burn 11 ounces of wax is:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "\\[\n11 \\text{ ounces} \\times 4 \\text{ hours per ounce} = 44 \\text{ hours}\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Verification: Burning 11 ounces at a rate of 1 ounce every 4 hours indeed takes 44 hours, confirming the remaining wax is 6 ounces.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Thus, the correct answer is:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "\\[\n\\boxed{D}\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        }
+    ]
+}

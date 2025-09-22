@@ -1,0 +1,275 @@
+{
+    "Question ID": "e8779461",
+    "data": [
+        {
+            "text": "Alright, let's see.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "I need to solve this system of equations where one is a quadratic and the other is linear.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The equations are y equals x squared plus 14x plus 48, and x plus 8 equals 11.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "They want the value of y in the solution (x, y).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "First, I should probably solve the linear equation for x because that seems straightforward.",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "The equation is x + 8 = 11.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "To solve for x, I can subtract 8 from both sides.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let me do that:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "x + 8 = 11  \nSubtract 8 from both sides:  \nx = 11 - 8  \nx = 3",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Okay, so x is 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Now that I have x, I can plug this value into the quadratic equation to find y.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let's substitute x = 3 into y = x² + 14x + 48.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Calculating each term step by step:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, x squared: 3 squared is 9.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then 14 times x: 14 times 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me do 10 times 3 is 30, and 4 times 3 is 12, so 30 + 12 is 42.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then the constant term is 48.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Now, add them all together:  \n9 (from x squared) + 42 (from 14x) + 48.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "9 + 42 is 51, and 51 + 48 is 99.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So y equals 99 when x is 3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Therefore, the solution to the system is (3, 99).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "But the question specifically asks for the value of y, so the answer is 99.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, let me double-check my calculations to make sure I didn't make a mistake.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Sometimes when I do arithmetic in my head, I might slip up.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Let's verify each step again.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "First, solving x + 8 = 11: subtract 8 from 11 gives 3.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "That seems right.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So x is definitely 3.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Now plugging into the quadratic:  \nx² = 3² = 9.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "14x = 14*3.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let's compute 14*3: 10*3=30, 4*3=12, sum is 42.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then the constant term is 48.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Adding those together: 9 + 42 + 48.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "9 + 42 is 51.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "51 + 48.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Hmm, 51 + 40 is 91, plus 8 is 99.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Yep, that's correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Alternatively, I can add them in another order to confirm.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let's add 42 and 48 first.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "42 + 48 is 90, and then add 9: 90 + 9 is 99.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Same result.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So y is indeed 99.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, the value of y in the solution is 99.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "I think that's solid.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "No mistakes here.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "The linear equation gave a unique x value, substituted into the quadratic gives y.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Since the system is a linear and a quadratic, there could be two solutions if the linear equation intersects the quadratic in two places, but in this case, since solving the linear equation gives a single x value, there's only one solution point.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So (3, 99) is the only solution, and y is 99.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**\nThe value of \\( y \\) is \\boxed{99}.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "To solve the system of equations \\( y = x^2 + 14x + 48 \\) and \\( x + 8 = 11 \\):",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "1. Solve the linear equation \\( x + 8 = 11 \\):\n   \\[\n   x + 8 = 11 \\\\\n   x = 11 - 8 \\\\\n   x = 3\n   \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "2. Substitute \\( x = 3 \\) into the quadratic equation \\( y = x^2 + 14x + 48 \\):\n   \\[\n   y = 3^2 + 14 \\cdot 3 + 48 \\\\\n   y = 9 + 42 + 48 \\\\\n   y = 9 + 42 \\\\\n   y = 51 + 48 \\\\\n   y = 99\n   \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Thus, the value of \\( y \\) is \\(\\boxed{99}\\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        }
+    ]
+}

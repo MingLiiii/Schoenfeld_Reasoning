@@ -1,0 +1,815 @@
+{
+    "Question ID": "916ffe9b",
+    "data": [
+        {
+            "text": "Alright, so I need to figure out by how many votes Angel Cruz is expected to win if 6,424 people vote in the election, based on the poll results from 803 voters.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Let me start by understanding the problem step by step.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, the table shows that out of 803 voters polled, 483 said they would vote for Angel Cruz and 320 for Terry Smith.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The question is asking, if this poll is accurate, how many more votes would Angel Cruz get than Terry Smith when the actual election happens with 6,424 voters.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The answer choices are given, so I need to calculate the expected difference.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Okay, let's break this down.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "The key here is to determine the proportion of voters supporting each candidate based on the poll and then apply that proportion to the total number of voters in the actual election.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "After that, we can find the difference between the two candidates' projected votes.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, let's check if the total number of people polled adds up.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "The poll results say Angel Cruz has 483 votes and Terry Smith has 320.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Adding those together: 483 + 320 = 803.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "That matches the total number of voters polled, so that's consistent.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Good, no discrepancies there.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Now, we need to find the percentage of voters supporting each candidate.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "For Angel Cruz, that would be 483 out of 803, and for Terry Smith, 320 out of 803.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Then, these percentages can be applied to the total expected voters (6,424) to estimate the number of votes each candidate would receive.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Finally, subtract Terry Smith's projected votes from Angel Cruz's to find the expected margin of victory.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let me write that out step by step.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "First, calculate the proportion of voters for Angel Cruz:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Proportion for Angel Cruz = 483 / 803",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Similarly, proportion for Terry Smith = 320 / 803",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "But since we need the difference, maybe it's easier to calculate the difference in the poll first and then scale it up.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, let's think.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The difference in the poll is 483 - 320 = 163 votes.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, out of 803 voters, Angel Cruz leads by 163 votes.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "If the same proportion holds, how much would that lead be when scaled up to 6,424 voters?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Alternatively, we can compute the percentage lead and then apply it to the total voters.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Either way, the key is to maintain the proportion.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me try both methods to see if they give the same result.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Method 1: Calculate each candidate's votes separately.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, find the percentage for Angel Cruz: 483 / 803 ≈ ?",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let me compute that.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "483 divided by 803.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me do this division.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "483 ÷ 803.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Since 803 is a bit more than 800, so 483 / 800 is approximately 0.60375.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "But since the denominator is 803, the actual value would be slightly less.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me compute more accurately.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let's do long division: 483 ÷ 803.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Since 803 goes into 483 zero times, we add a decimal point.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "803 goes into 4830 six times (6*803=4818).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract 4818 from 4830: 12.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a zero: 120.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "803 goes into 120 zero times.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down another zero: 1200.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "803 goes into 1200 once (1*803=803).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract: 1200-803=397.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a zero: 3970.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "803 goes into 3970 four times (4*803=3212).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract: 3970-3212=758.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a zero: 7580.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "803 goes into 7580 nine times (9*803=7227).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract: 7580-7227=353.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a zero: 3530.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "803 goes into 3530 four times (4*803=3212).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract: 3530-3212=318.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, so far, we have 0.6014.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So approximately 0.6014 or 60.14%.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Similarly, for Terry Smith: 320 / 803.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let's compute that.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "320 ÷ 803.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Again, same denominator.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me see.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "320/803.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Since 803*0.4=321.2, which is very close to 320, so approximately 0.4 or 40%, but slightly less.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me check.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "320 ÷ 803.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let's do similar long division.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "803 into 3200 (add a decimal).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "803*3=2409, which is less than 3200.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "3*803=2409.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract: 3200-2409=791.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a zero: 7910.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "803*9=7227.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract: 7910-7227=683.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a zero: 6830.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "803*8=6424.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract: 6830-6424=406.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Bring down a zero: 4060.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "803*5=4015.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtract: 4060-4015=45.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So we have 0.3985.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So approximately 39.85%.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So Angel Cruz has approximately 60.14% support, Terry Smith has approximately 39.85% support.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "The difference is about 20.29%.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Alternatively, we can calculate the difference in votes from the poll, which is 163 votes (483 - 320), and then find what percentage that is of the poll total, then apply that percentage to the total electorate.",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So difference in poll: 163 votes.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Total polled: 803.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So the difference proportion is 163 / 803 ≈ 0.203, or 20.3%.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, applying this percentage to 6,424 voters: 0.203 * 6,424 ≈ ?",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Compute 6,424 * 0.2 = 1,284.8",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "6,424 * 0.003 = 19.272",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So total difference ≈ 1,284.8 + 19.272 ≈ 1,304.072",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So approximately 1,304 votes.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Which corresponds to option B.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Alternatively, using the first method, compute each candidate's votes:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Angel Cruz: 60.14% of 6,424 = 0.6014 * 6,424",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Terry Smith: 39.85% of 6,424 = 0.3985 * 6,424",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then subtract the two.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me compute Angel Cruz's votes first.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "0.6014 * 6,424",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "First, 6,424 * 0.6 = 3,854.4",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "6,424 * 0.0014 = 6,424 * 0.001 = 6.424; 6.424 * 1.4 = approx 9.0 (since 6*1.4=8.4, 0.424*1.4≈0.594, so total ≈8.4+0.594≈8.994)",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So total Angel Cruz votes ≈ 3,854.4 + 8.994 ≈ 3,863.394 ≈ 3,863",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Terry Smith: 0.3985 * 6,424",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Compute 6,424 * 0.3 = 1,927.2",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "6,424 * 0.09 = 578.16",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "6,424 * 0.0085 = ?",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Compute 6,424 * 0.008 = 51.392",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "6,424 * 0.0005 = 3.212",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So total 51.392 + 3.212 = 54.604",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So total Terry Smith votes: 1,927.2 + 578.16 + 54.604 ≈ 1,927.2 + 578.16 = 2,505.36 + 54.604 ≈ 2,559.964 ≈ 2,560",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Now, subtract Terry Smith's votes from Angel Cruz's: 3,863 - 2,560 = 1,303",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Which is approximately 1,303, very close to the 1,304 we got earlier.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "The slight difference is due to rounding in the percentages.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the expected difference is approximately 1,304 votes, which is option B.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Alternatively, since the difference in the poll is 163 votes over 803 total, the ratio of the difference is 163/803.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Multiply this ratio by the total electorate of 6,424 to get the expected difference.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "So, 163/803 * 6,424.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me compute this.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, note that 803 * 8 = 6,424.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Exactly.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Because 800*8=6,400 and 3*8=24, so 6,400+24=6,424.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So 803 * 8 = 6,424.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, 163/803 * 6,424 = 163 * (6,424 / 803) = 163 * 8 = 1,304.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Oh! That's a much simpler way.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Since 6,424 is exactly 8 times 803 (because 803*8=6,424), the ratio is 8.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the difference in the poll (163) multiplied by 8 gives the projected difference in the actual election.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "163*8=1,304.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So that's exactly the answer, no approximation needed.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wow, that's a neat relationship.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The total number of voters in the election is exactly 8 times the number of people polled (803*8=6,424).",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, scaling up the poll results by a factor of 8 gives the projected votes.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So Angel Cruz's lead of 163 votes in the poll would translate to 163*8=1,304 votes in the election.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, the answer is B) 1,304.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "This method is exact because 6,424 is a multiple of 803, which I didn't notice at first.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "That simplifies the calculation a lot.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So instead of dealing with percentages and decimal approximations, which can lead to rounding errors, we can directly scale the difference by the same factor.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Since the total votes are 8 times the polled votes, every vote in the poll represents 8 votes in the actual election.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, a difference of 163 votes in the poll would be 163*8 in the election.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me verify this multiplication:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "163*8: 160*8=1,280 and 3*8=24, so 1,280+24=1,304.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Perfect.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Therefore, the correct answer is B) 1,304.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "This makes sense.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The key insight here was recognizing that 6,424 is exactly 8 times 803, which allows for a straightforward scaling of the poll results without dealing with messy decimals.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "This approach is more efficient and avoids potential calculation errors.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Another way to think about it is if the sample is a perfect representation and the total population is a multiple of the sample size, then scaling up is straightforward multiplication.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Since the poll has a difference of 163, scaling by 8 gives the exact expected difference.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the answer must be B) 1,304.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**\n\\boxed{B}</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The table shows the results of a poll with 803 voters, where Angel Cruz received 483 votes and Terry Smith received 320 votes.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "To determine the expected number of votes by which Angel Cruz would win if 6,424 people vote, we first calculate the difference in the poll results:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "\\[\n483 - 320 = 163\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Next, we note that the total number of voters in the election (6,424) is exactly 8 times the number of polled voters (803).",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, we scale the difference in the poll results by this factor:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "\\[\n163 \\times 8 = 1,304\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Thus, Angel Cruz is expected to win by \\(\\boxed{B}\\) votes.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        }
+    ]
+}

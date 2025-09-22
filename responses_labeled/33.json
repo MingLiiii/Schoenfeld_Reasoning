@@ -1,0 +1,400 @@
+{
+    "Question ID": "e6f2ace7",
+    "data": [
+        {
+            "text": "Okay, so I need to find the hypotenuse of a right triangle where the two legs are 3 and 7.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Hmm, right triangles.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Pythagoras theorem, right?",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me remember.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "It's a² + b² = c², where a and b are the legs, and c is the hypotenuse.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Yeah, that sounds right.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Alright, so plugging in the values here.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let me write that out step by step.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, square both legs.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 3 squared is 9, and 7 squared is 49.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then add those two results together.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "9 plus 49 equals.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": ".",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "58.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, 58 is equal to c squared.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "To find c, I need to take the square root of 58.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Wait, what's the square root of 58?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me think.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "I know that 7 squared is 49 and 8 squared is 64.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, 58 is between 49 and 64, which means the square root of 58 is between 7 and 8.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me get a better estimate.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let's see, 7.5 squared is 56.25, right?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Because 7 times 7 is 49, 0.5 squared is 0.25, and the cross term is 2*7*0.5 = 7.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, 49 + 7 + 0.25 = 56.25.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Hmm, so 7.5 squared is 56.25.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But we need 58.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So, 58 is 1.75 more than 56.25.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let's try 7.6 squared.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Calculating 7.6 squared.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let's break it down: 7 squared is 49, 0.6 squared is 0.36, and the cross term is 2*7*0.6 = 8.4.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So, 49 + 8.4 + 0.36 = 57.76.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Oh, 7.6 squared is 57.76.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "That's really close to 58.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So, 58 minus 57.76 is 0.24.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So, the square of 7.6 is 57.76, which is 0.24 less than 58.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So, how much more do we need to add to 7.6 to get to 58?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me approximate.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let's denote x = 7.6 + d, where d is a small decimal.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then, (7.6 + d)^2 ≈ 57.76 + 2*7.6*d + d².",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Since d is small, d² can be neglected.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, 57.76 + 15.2d ≈ 58.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, 15.2d ≈ 0.24.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Therefore, d ≈ 0.24 / 15.2 ≈ 0.0157.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, approximately 0.016.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Therefore, the square root of 58 is approximately 7.6 + 0.016 = 7.616.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, roughly 7.62.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Therefore, the hypotenuse is approximately 7.62.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Looking at the choices given: A) 3.2, B) 5, C) 7.6, D) 20.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Well, 7.62 is extremely close to 7.6, so the closest answer is C) 7.6.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me just verify once more to make sure I didn't make any calculation mistakes.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, 3 squared is 9, 7 squared is 49, sum is 58.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Square root of 58 is indeed between 7.6 and 7.7.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Since 7.6 squared is 57.76 and 7.7 squared is 59.29.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, 58 is between those.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Since 58 is closer to 57.76 (difference of 0.24) than to 59.29 (difference of 1.29), so yes, 7.6 is the closest.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, answer C.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Just to check, maybe someone might think 3+7=10, but that's the sum of the legs, not the hypotenuse.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Or maybe think 7-3=4, but that's not relevant.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So, Pythagoras is definitely the way to go here.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "The answer choices also include 20, which is way too big, because even if both legs were 10, the hypotenuse would be about 14.14.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So 20 is too much.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "5 is less than 7, which is one of the legs, but hypotenuse has to be longer than either leg.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So 5 is too small.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "3.2 is way too small.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So, only reasonable options are C) 7.6 and maybe B)5.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But 5 is too small, so C is the answer.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**\n\\boxed{C}</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "To find the hypotenuse of a right triangle with legs 3 and 7, we use the Pythagorean theorem: \\(a^2 + b^2 = c^2\\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Here, \\(a = 3\\) and \\(b = 7\\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "1. Calculate the squares of the legs:\n   \\[\n   3^2 = 9 \\quad \\text{and} \\quad 7^2 = 49\n   \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "2. Sum the squares:\n   \\[\n   9 + 49 = 58\n   \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "3. Take the square root of the sum to find the hypotenuse:\n   \\[\n   c = \\sqrt{58}\n   \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "4. Estimate \\(\\sqrt{58}\\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Knowing that \\(7.6^2 = 57.76\\) and \\(7.7^2 = 59.29\\), we see that 58 is closer to 57.76.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Therefore, \\(\\sqrt{58} \\approx 7.6\\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Thus, the closest length of the hypotenuse is \\(\\boxed{C}\\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        }
+    ]
+}

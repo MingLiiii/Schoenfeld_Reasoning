@@ -1,0 +1,265 @@
+{
+    "Question ID": "b4912cc5",
+    "data": [
+        {
+            "text": "Okay, let's tackle this population density problem.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So, Iceland's population density went from 2.5 people per square kilometer in 1990 to 3.3 in 2014.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The land area stayed the same at 100,250 square kilometers.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "We need to find out how many more people there were in 2014 compared to 1990.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The answer choices are A) 330,825, B) 132,330, C) 125,312, and D) 80,200.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "First, I remember that population density is calculated by dividing the population by the land area.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, if we have the density and the land area, we can find the population by multiplying them.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Since the land area didn't change, we can calculate the population for both years separately and then subtract to find the increase.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let me write down the formula:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Population = Density × Land Area",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So for 1990, the population would be 2.5 people/km² × 100,250 km².",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let me compute that.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Hmm, 2.5 times 100,250.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Breaking that down: 100,250 × 2 = 200,500, and then 100,250 × 0.5 = 50,125.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Adding those together gives 200,500 + 50,125 = 250,625.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So the population in 1990 was 250,625 people.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then, in 2014, the density was 3.3 people/km².",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Using the same land area, the population would be 3.3 × 100,250.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Let's calculate that.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "100,250 × 3 = 300,750, and 100,250 × 0.3 = 30,075.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Adding those gives 300,750 + 30,075 = 330,825.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So the population in 2014 was 330,825 people.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Now, to find the increase, subtract the 1990 population from the 2014 population: 330,825 - 250,625.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me do that subtraction.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "330,825 minus 250,625.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Subtract the thousands first: 330,000 - 250,000 = 80,000.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then subtract the remaining 625: 825 - 625 = 200.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So 80,000 + 200 = 80,200.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So the population increased by 80,200 people.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Looking at the answer choices, D is 80,200.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So that should be the correct answer.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me double-check my calculations to make sure I didn't make a mistake.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "For 1990: 2.5 × 100,250.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Yes, 2.5 is 10/4, so 100,250 × 10 = 1,002,500 divided by 4 is 250,625.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "That checks out.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "For 2014: 3.3 × 100,250.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "3.3 is the same as 3 + 0.3.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "100,250 × 3 is 300,750.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "100,250 × 0.3 is 30,075.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Adding those gives 330,825.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Subtracting 250,625 from 330,825 gives 80,200.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "That matches option D.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So I think D is the right choice here.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**\n\\boxed{D}</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The population density of Iceland increased from 2.5 people per square kilometer in 1990 to 3.3 people per square kilometer in 2014.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The land area remained constant at 100,250 square kilometers.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "To find the increase in population, we calculate the population for both years and subtract the 1990 population from the 2014 population.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "For 1990:\n\\[\n\\text{Population} = 2.5 \\, \\text{people/km}^2 \\times 100,250 \\, \\text{km}^2 = 250,625 \\, \\text{people}\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "For 2014:\n\\[\n\\text{Population} = 3.3 \\, \\text{people/km}^2 \\times 100,250 \\, \\text{km}^2 = 330,825 \\, \\text{people}\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "The increase in population is:\n\\[\n330,825 - 250,625 = 80,200\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Thus, the answer is \\(\\boxed{D}\\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        }
+    ]
+}

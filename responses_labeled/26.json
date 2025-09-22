@@ -1,0 +1,550 @@
+{
+    "Question ID": "d3b9c8d8",
+    "data": [
+        {
+            "text": "Okay, let me try to figure out this problem step by step.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "So, we have two box plots for Group 1 and Group 2 gazelles, showing their masses in kilograms.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The question asks which statement must be true based on the box plots.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The options are about the mean and median masses of the two groups.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "First, I need to recall what a box plot shows.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "A box plot typically displays the minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, from the description given, for Group 1, the vertical bars (which I assume correspond to these five values) are at 21, 22, 25, 26, and 28.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "For Group 2, they are at 22, 23, 24, 25, and 28.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Let me confirm: the first vertical bar is the minimum, then Q1, median, Q3, and maximum.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, Group 1 has a minimum of 21, Q1 of 22, median of 25, Q3 of 26, and maximum of 28.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Group 2 has a minimum of 22, Q1 of 23, median of 24, Q3 of 25, and maximum of 28.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Now, the question is about the mean and median.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The options are A and B about the mean, C and D about the median.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Starting with the medians: the median is the middle value of the dataset, which is represented by the line in the middle of the box in a box plot.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "For Group 1, the median is 25 kg, and for Group 2, the median is 24 kg.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, comparing the two medians, Group 1's median (25) is greater than Group 2's median (24).",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "That would make statement C true: \"The median mass of group 1 is greater than the median mass of group 2.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "\" Statement D would be the opposite, so D is false.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Now, for the mean, which is the average.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Box plots don't directly show the mean; they show the median and quartiles.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The mean can be influenced by outliers and the shape of the distribution.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, even if we know the medians, we can't be certain about the means unless the distributions are symmetrical.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "If the data is skewed, the mean can be pulled towards the tail.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Looking at Group 1: The minimum is 21, Q1 is 22, median 25, Q3 26, maximum 28.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The box (from Q1 to Q3) is between 22 and 26, with the median at 25.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The whiskers go from 21 to 28.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The distance from Q1 to the median is 3 (25-22), and from the median to Q3 is 1 (26-25).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "The lower whisker is from 21 to 22 (1 unit), and the upper whisker is from 26 to 28 (2 units).",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So the distribution for Group 1 seems to be skewed a bit towards the higher end (right-skewed) because the right whisker is longer than the left.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Wait, actually, the box is shorter on the right side of the median.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Hmm, maybe not.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me think.",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "The distance from Q1 to median is 3, and from median to Q3 is 1.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "That suggests that the data between Q1 and median is more spread out, which might indicate left skew?",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, no.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Skewness direction is a bit counterintuitive.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "If the longer tail is on the right, it's right-skewed.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "If the longer tail is on the left, it's left-skewed.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "For Group 1, the left whisker is from 21 to 22 (1 unit), and the right whisker is from 26 to 28 (2 units).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So the right whisker is longer.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "That suggests that the upper 25% of the data is more spread out.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So Group 1 might be slightly right-skewed.",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "In that case, the mean would be higher than the median.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Since the median is 25, the mean could be a bit higher.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "For Group 2: minimum 22, Q1 23, median 24, Q3 25, maximum 28.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The box is from 23 to 25, median at 24.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The whiskers go from 22 to 28.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The distance from Q1 to median is 1 (24-23), and from median to Q3 is 1 (25-24).",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The lower whisker is from 22 to 23 (1 unit), and the upper whisker is from 25 to 28 (3 units).",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So the upper whisker is much longer.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "That suggests Group 2 is also right-skewed, with the upper 25% spread out more.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the mean for Group 2 would also be higher than the median.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, Group 1 has median 25 and possible mean higher than 25.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Group 2 has median 24 and possible mean higher than 24.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "But how do their means compare?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Since both are right-skewed, but we don't have actual data points.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "We can't calculate the exact mean, but maybe compare the spread and positions.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Looking at the ranges: Group 1 has a range from 21 to 28 (7 kg), and Group 2 from 22 to 28 (6 kg).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Group 1's lower quartile is lower (22 vs 23), and upper quartile is higher (26 vs 25).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So Group 1's middle 50% is spread from 22 to 26, while Group 2's is 23 to 25.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Group 1's data is more spread in the middle, but Group 2 has a longer upper whisker.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "If both are right-skewed, but Group 2's upper whisker is longer (25 to 28 vs Group 1's 26 to 28), that might mean Group 2 has more data points in the higher end, beyond the Q3.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "However, the maximum for both is 28.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So Group 2's upper whisker is longer (from 25 to 28) compared to Group 1's upper whisker (26 to 28).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "That might indicate that Group 2 has more extreme values in the higher end, which could pull the mean higher.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But Group 1 has a higher median.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So even though Group 2 might have a higher mean due to the longer upper tail, but without knowing the exact data points, we can't be sure.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Wait, but the median is a measure of central tendency that's resistant to outliers, whereas the mean is influenced by them.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So if Group 2 has a longer upper tail (more spread out in higher values), that might make its mean higher relative to its median.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "But Group 1's median is higher (25 vs 24).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So which effect is stronger?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Alternatively, perhaps Group 1's mean is higher because it's got a higher median and even though Group 2 has a longer upper whisker, maybe the higher median in Group 1 might lead to a higher mean.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But this is speculative.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Since we can't actually calculate the means, the question is whether we can definitively say which mean is larger.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Since box plots don't show the mean, and depending on the skewness and outliers, the mean could be higher or lower.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "For example, if Group 1 is right-skewed, its mean is greater than the median (25), so maybe around 26.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Group 2 is also right-skewed, so its mean is greater than 24.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "If Group 2's upper whisker is longer, maybe its mean is pulled more towards the higher end.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So perhaps Group 2's mean is higher than Group 1's?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Or vice versa?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But without specific data, we can't know for sure.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, statements A and B about the mean cannot be definitively determined from the box plots alone.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "They might be true, but they don't have to be.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "However, the medians are clear: Group 1's median is 25, Group 2's is 24.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So the median of Group 1 is greater than Group 2's.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, statement C must be true.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me double-check the problem statement to make sure I didn't misinterpret the box plot values.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "The description says:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Group 1: 21, 22, 25, 26, 28.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Group 2: 22, 23, 24, 25, 28.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Assuming these are the min, Q1, median, Q3, max.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So Group 1's median is 25, Group 2's is 24.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So yes, C is correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, the answer is C.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**\n\\boxed{C}</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Based on the box plots provided, we need to determine which statement about the mean or median masses of the two groups of gazelles must be true.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "1. **Understanding the Box Plots**:\n   - **Group 1**: The values are 21 (minimum), 22 (Q1), 25 (median), 26 (Q3), and 28 (maximum).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "- **Group 2**: The values are 22 (minimum), 23 (Q1), 24 (median), 25 (Q3), and 28 (maximum).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "2. **Comparing Medians**:\n   - The median mass of Group 1 is 25 kg.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "- The median mass of Group 2 is 24 kg.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "- Therefore, the median mass of Group 1 is greater than the median mass of Group 2.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "This makes statement C true.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "3. **Considering Means**:\n   - Box plots do not show the mean directly.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The mean can be influenced by the distribution's skewness and outliers.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "- Both groups are right-skewed (longer upper whiskers), which might pull the mean higher than the median.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "However, without exact data points, we cannot definitively compare the means.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "4. **Conclusion**:\n   - The medians are clear and directly comparable from the box plots.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Group 1's median is higher than Group 2's, so statement C must be true.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "\\boxed{C}",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        }
+    ]
+}

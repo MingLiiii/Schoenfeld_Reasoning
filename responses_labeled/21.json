@@ -1,0 +1,720 @@
+{
+    "Question ID": "5910bfff",
+    "data": [
+        {
+            "text": "Okay, so I need to solve this problem where they give a formula for the dew point D in terms of relative humidity H, and I need to rearrange the formula to express H in terms of D and T.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Let me start by writing down the original equation they provided:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "D = (9/25) × (100 - H)",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Wait, but the problem statement mentions temperature T as well.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Hmm, looking back at the problem, the formula approximates the dew point D given the temperature T and relative humidity H, where H > 50.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "But in the formula provided, I don't see T.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Wait, maybe there's a typo in my transcription?",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Let me check again.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "No, the original problem states: \"The formula above can be used to approximate the dew point D, in degrees Fahrenheit, given the temperature T, in degrees Fahrenheit, and the relative humidity of H percent, where H > 50.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "\" But the formula given is D = (9/25) × (100 - H).",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "That seems to be missing the temperature T.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, that must be a mistake.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, maybe the problem actually has a different formula?",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me check again.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, maybe I misread the problem.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Let me read again carefully.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "\"$D = \\frac{9}{25} \\times (100 - H)$ The formula above can be used to approximate the dew point D, in degrees Fahrenheit, given the temperature T, in degrees Fahrenheit, and the relative humidity of H percent, where H > 50.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "\"",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Wait a minute, so the formula is D = (9/25)(100 - H).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "But that seems odd because if the formula is supposed to depend on temperature T as well, but here it's only in terms of H.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Maybe there's a mistake in the problem statement, or perhaps the formula actually includes T but was written incorrectly here.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, the original problem is in Chinese, maybe there was a mistranslation?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, no, the user provided the problem in English.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Let me check again.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, perhaps the formula is actually D = (9/25)(T - H) + something?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But according to the user's problem, the formula is as written: D equals 9/25 times (100 minus H).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "But then how does temperature T factor into this?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "That seems confusing.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Wait, maybe there's a typo in the problem.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Wait, maybe the original formula should involve T.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me check the problem again.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Wait, maybe the formula was meant to be D = (9/25)(T - (100 - H)) or something like that.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But according to what's written, it's D = (9/25)(100 - H).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Hmm.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Wait, perhaps the problem is correct, and T is not directly in the formula, but the formula is valid for a specific temperature range, but that seems odd.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, perhaps the formula is an approximation where the temperature T is 100 degrees?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, but the problem says \"given the temperature T, in degrees Fahrenheit, and the relative humidity of H percent\".",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So maybe the original formula is supposed to have T in it, but perhaps in the problem statement, the formula was mistyped.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, this is confusing.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Let me try to think.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Wait, perhaps the problem is correct as written, and the formula for D is only a function of H, not T.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But that contradicts the problem statement saying it's given the temperature T and H.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So there's a contradiction here.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Maybe the original problem has a typo.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, but the user is asking to express H in terms of T and D.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So, given that the formula currently has D in terms of H, but perhaps the correct formula should have D in terms of T and H.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, maybe the actual formula is D = (9/25)(T - (100 - H))?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Or maybe it's D = (9/25)(100 - H) + T or something.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, but that's pure speculation.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Alternatively, maybe the problem is correct, and the formula is D = (9/25)(100 - H), and the mention of temperature T is a red herring.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, but if the problem says the formula can be used to approximate D given T and H, then the formula should relate D to T and H.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So perhaps the formula in the problem is written incorrectly.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me check once more.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Wait, perhaps there's a missing part in the formula.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "For example, maybe it's D = T - (9/25)(100 - H).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "That would make sense because the dew point is usually lower than the temperature.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "If T is the temperature, then subtracting (9/25)(100 - H) from T would give a lower value D.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me see: If H is 100%, then (100 - H) would be 0, so D = T, which makes sense because when relative humidity is 100%, the dew point equals the temperature.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "If H is lower, then (100 - H) is positive, so D would be less than T.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "That makes sense.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So maybe the original formula was meant to be D = T - (9/25)(100 - H).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But in the problem, it's written as D = (9/25)(100 - H).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Hmm.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "That discrepancy is a problem.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Wait, perhaps the problem has a typo, but given that the user has provided the formula as D = (9/25)(100 - H), I have to work with that.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "However, then the mention of temperature T is confusing.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Wait, maybe the problem is correct, and there's a different relation.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, maybe the formula is D = (9/25)(T - (100 - H))?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let's try that.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "If so, then D = (9/25)(T - 100 + H).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then solving for H would involve rearranging.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But without knowing T's relation, maybe that's possible.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, but given that the problem states that the formula is D = (9/25)(100 - H), then perhaps the formula is correct as given, but the mention of temperature T is a mistake.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Alternatively, perhaps the formula is correct, but the temperature T is 100°F?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "That seems unlikely.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Wait, perhaps the problem is from a specific source where they assume a fixed temperature, but that seems odd.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Alternatively, maybe the problem is correct, and the answer choices are in terms of T even though the original formula does not include T, which would mean that there's an error.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Alternatively, maybe I misread the formula.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me check again.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, looking at the original problem: the user wrote:",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "$D = \\frac{9}{25} \\times (100 - H)$",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The formula above can be used to approximate the dew point D, in degrees Fahrenheit, given the temperature T, in degrees Fahrenheit, and the relative humidity of H percent, where H > 50.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Wait, that's very confusing.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "If the formula for D is given without T, then how does T factor in?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "That must be a mistake.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Alternatively, maybe there's a typo and the formula should be D = T - (9/25)(100 - H).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "That would make sense, as then D depends on both T and H.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let me check the answer choices to see if that helps.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "The answer choices are all H in terms of D and T.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So if the original formula were D = T - (9/25)(100 - H), then solving for H would give:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "D = T - (9/25)(100 - H)",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let me rearrange that:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "(9/25)(100 - H) = T - D",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Multiply both sides by 25/9:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "100 - H = (25/9)(T - D)",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then:",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "H = 100 - (25/9)(T - D)",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "H = 100 - (25/9)T + (25/9)D",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "H = (25/9)(D - T) + 100",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Which matches option A: H = (25/9)(D - T) + 100",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But according to the original problem, the formula is D = (9/25)(100 - H), which does not include T.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "So if the formula provided by the user is correct, then T is not involved.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "But the problem mentions that the formula is given the temperature T and H, so there must be a mistake.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, I think the formula should be D = T - (9/25)(100 - H), which includes T, and then solving for H gives option A.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Since the answer choices involve T, it's likely that the original formula was supposed to include T, and there was a typo in the problem statement.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Therefore, I will proceed under the assumption that the correct formula is D = T - (9/25)(100 - H) and solve accordingly.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "So starting with D = T - (9/25)(100 - H), let's solve for H.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, subtract T from both sides:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "D - T = - (9/25)(100 - H)",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Multiply both sides by -1:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "T - D = (9/25)(100 - H)",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Multiply both sides by 25/9:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "(25/9)(T - D) = 100 - H",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then,",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "H = 100 - (25/9)(T - D)",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "H = 100 + (25/9)(D - T)",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "H = (25/9)(D - T) + 100",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Which is option A.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, the correct answer is A.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "But wait, let me verify again with the original formula provided.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "If the original formula is actually D = (9/25)(100 - H), then solving for H would be:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Multiply both sides by 25/9:",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "(25/9)D = 100 - H",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Then,",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "H = 100 - (25/9)D",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "But this does not involve T at all, which contradicts the problem statement that asks to express H in terms of T and D.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Therefore, there must be a typo in the formula provided in the problem.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Given that the answer options include T, the formula must have involved T.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the correct formula is likely D = T - (9/25)(100 - H), and the original problem had a typo omitting T.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "With that, the answer is A.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Since the given answer choices include T, this is the only way the problem makes sense.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, I will go with option A as the correct answer.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**\n\\boxed{A}</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "The given formula to approximate the dew point \\( D \\) is \\( D = \\frac{9}{25} \\times (100 - H) \\).",
+            "gt-class-1": "General",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "However, the problem statement mentions that this formula should involve the temperature \\( T \\).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Upon re-evaluating the problem, it is likely that the correct formula should include \\( T \\) and is intended to be \\( D = T - \\frac{9}{25} \\times (100 - H) \\).",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Starting with the corrected formula:\n\\[ D = T - \\frac{9}{25} \\times (100 - H) \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "To solve for \\( H \\):\n1.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Subtract \\( T \\) from both sides:\n   \\[ D - T = - \\frac{9}{25} \\times (100 - H) \\]\n2.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Multiply both sides by -1:\n   \\[ T - D = \\frac{9}{25} \\times (100 - H) \\]\n3.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Multiply both sides by \\( \\frac{25}{9} \\):\n   \\[ \\frac{25}{9} \\times (T - D) = 100 - H \\]\n4.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Rearrange to solve for \\( H \\):\n   \\[ H = 100 - \\frac{25}{9} \\times (T - D) \\]\n   \\[ H = 100 + \\frac{25}{9} \\times (D - T) \\]\n   \\[ H = \\frac{25}{9} \\times (D - T) + 100 \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Thus, the correct answer is:\n\\[\n\\boxed{A}\n\\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        }
+    ]
+}

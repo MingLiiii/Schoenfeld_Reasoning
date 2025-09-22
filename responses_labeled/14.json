@@ -1,0 +1,380 @@
+{
+    "Question ID": "7038b587",
+    "data": [
+        {
+            "text": "Okay, let's see.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Vivian bought party hats and cupcakes for a total of $71.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Each package of party hats costs $3, and each cupcake costs $1.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "The question says she bought 10 packages of party hats, and we need to find out how many cupcakes she bought.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Alright, let's break this down.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "First, let's figure out how much money she spent on party hats.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "Each package is $3, and she bought 10 packages.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "So, 10 packages multiplied by $3 per package.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me write that out: 10 * 3 = $30.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, she spent $30 on party hats.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Now, the total amount she spent was $71.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "If she spent $30 on party hats, then the remaining money must have been spent on cupcakes.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "To find out how much she spent on cupcakes, we can subtract the cost of the party hats from the total amount.",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "That would be $71 - $30.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me do that calculation: 71 - 30 = $41.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, she spent $41 on cupcakes.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Each cupcake costs $1, right?",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So, if each cupcake is $1, then the number of cupcakes she bought would be equal to the amount she spent on cupcakes.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Since she spent $41 on cupcakes, that must mean she bought 41 cupcakes.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Let me confirm that.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "If each cupcake is $1, then 41 cupcakes would cost 41 * 1 = $41, which matches the remaining money after buying the party hats.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Wait, just to make sure I didn't make a mistake.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me check the total.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "10 packages at $3 each is $30, and 41 cupcakes at $1 each is $41.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Adding those together: 30 + 41 = 71.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Yep, that's correct.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So, the total adds up to $71, which matches the problem statement.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Hmm, is there another way to approach this problem?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Maybe using algebra?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "Let's try that to verify.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me define variables.",
+            "gt-class-1": "General",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Let p be the number of party hat packages, and c be the number of cupcakes.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The total cost is given by 3p + 1c = 71.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "The problem states that p = 10, so substituting that into the equation: 3*10 + c = 71.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "That simplifies to 30 + c = 71.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Subtracting 30 from both sides: c = 71 - 30 = 41.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, c = 41.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Therefore, Vivian bought 41 cupcakes.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Okay, both methods give me the same answer.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "That gives me more confidence that 41 is the correct number.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Let me just recap to ensure I didn't overlook anything.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "The problem mentions party hats and cupcakes, with given prices.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Total spent is $71.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Given that 10 party hat packages were bought, each at $3, so total for hats is 10*3=30.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Total minus hats gives cupcakes' total cost, which is 71-30=41.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Since each cupcake is $1, number of cupcakes is 41.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "All steps make sense, and the calculations check out.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "No, wait, another thought.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Could there be tax or something else added?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "The problem doesn't mention any tax, so we can assume all amounts are pre-tax, or tax is included in the given prices.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Since the problem states each package of party hats is $3 and each cupcake is $1, and the total is $71, we can safely ignore taxes unless mentioned, which they aren't.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "So, no need to consider that.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Is there a possibility of a discount for buying in bulk?",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Explore"
+        },
+        {
+            "text": "The problem doesn't state any discounts, so I think we can assume each item is at the listed price.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Therefore, the total cost is simply the sum of the individual items.",
+            "gt-class-1": "Explore",
+            "gt-class-2": "Analyze"
+        },
+        {
+            "text": "Just to recap in another way.",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "If Vivian bought 10 packages of hats at $3 each, that's 10 * 3 = 30.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "The remaining money is 71 - 30 = 41.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "Each cupcake is $1, so 41 cupcakes.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "So, 41 is the answer.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "I think that's solid.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Both arithmetic and algebraic methods confirm the answer.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "No steps skipped that could introduce errors, and cross-verified the total.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "So, yeah, 41 cupcakes.",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "**Final Answer**\nThe number of cupcakes Vivian bought is \\boxed{41}.",
+            "gt-class-1": "General",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "</think>",
+            "gt-class-1": "General",
+            "gt-class-2": "Monitor"
+        },
+        {
+            "text": "Vivian bought party hats and cupcakes for a total of $71.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "Each package of party hats costs $3, and each cupcake costs $1.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "She bought 10 packages of party hats.",
+            "gt-class-1": "General",
+            "gt-class-2": "Read"
+        },
+        {
+            "text": "To find the number of cupcakes she bought, we can follow these steps:",
+            "gt-class-1": "General",
+            "gt-class-2": "Plan"
+        },
+        {
+            "text": "1. Calculate the total cost of the party hats:\n   \\[\n   10 \\text{ packages} \\times \\$3 \\text{ per package} = \\$30\n   \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "2. Subtract the cost of the party hats from the total amount spent to find the remaining money spent on cupcakes:\n   \\[\n   \\$71 - \\$30 = \\$41\n   \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "3. Since each cupcake costs $1, the number of cupcakes is equal to the remaining money:\n   \\[\n   \\$41 \\div \\$1 \\text{ per cupcake} = 41 \\text{ cupcakes}\n   \\]",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        },
+        {
+            "text": "We can verify this by checking the total cost:\n   \\[\n   10 \\text{ packages} \\times \\$3 + 41 \\text{ cupcakes} \\times \\$1 = \\$30 + \\$41 = \\$71\n   \\]",
+            "gt-class-1": "Verify",
+            "gt-class-2": "Verify"
+        },
+        {
+            "text": "Thus, the number of cupcakes Vivian bought is \\boxed{41}.",
+            "gt-class-1": "General",
+            "gt-class-2": "Implement"
+        }
+    ]
+}
